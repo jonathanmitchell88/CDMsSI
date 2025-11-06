@@ -19,7 +19,7 @@ S8.nb: Mathematica file for distinguishability of CDMs
 S9.txt: Text version of S8.nb
 S10.m2: Macaulay2 file for distinguishability of CDMs
 S11.txt: Output file for S10.m2
-S12.nb: Mathematica file for proving Theorem 13
+S12.nb: Mathematica file for proving Theorem 9
 S13.txt: Text version of S12.nb
-S14.m2: Macaulay2 file for identifiability of CDMs in Theorem 13
+S14.m2: Macaulay2 file for identifiability of CDMs in Theorem 9
 S15.txt: Output file for S14.m2
