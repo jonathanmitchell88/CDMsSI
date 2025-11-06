@@ -9,8 +9,6 @@ Supplementary information files for the following manuscript.
 ####################
 
 S1.pdf: Online appendix
-S1 (Revised).pdf: Revised version of online appendix, with revisions in red
-S1 (Revised, unmarked).pdf: Revised version of online appendix, with revisions unmarked
 S2.nb: Mathematica file for phylogenetic tensor for CDM 5
 S3.txt: Text version of S2.nb
 S4.m2: Macaulay2 file for computing Groebner basis for CDM 5
